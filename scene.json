@@ -13,8 +13,8 @@
       {
          "type":"image",
          "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Snowman_in_Indiana_2014.jpg/960px-Snowman_in_Indiana_2014.jpg",
-         "x":20,
-         "y":20,
+         "x":40,
+         "y":40,
          "width":120,
          "height":120,
          "zIndex":2,
