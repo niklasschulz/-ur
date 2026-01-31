@@ -1,0 +1,24 @@
+{
+   "css":"#clock { font-size: 96px; color: #ff0000; }",
+   "fonts":[
+      {
+         "family":"JetBrains Mono",
+         "weights":[
+            400
+         ]
+      }
+   ],
+   "fontFamily":"'JetBrains Mono', monospace",
+   "assets":[
+      {
+         "type":"image",
+         "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Snowman_in_Indiana_2014.jpg/960px-Snowman_in_Indiana_2014.jpg",
+         "x":20,
+         "y":20,
+         "width":120,
+         "height":120,
+         "zIndex":2,
+         "opacity":0.95
+      }
+   ]
+}
